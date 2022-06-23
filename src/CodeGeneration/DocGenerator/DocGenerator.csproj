@@ -17,7 +17,7 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Workspaces.Common" Version="2.9.0" />
     <PackageReference Include="Microsoft.Composition" Version="1.0.31" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="1.1.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <ProjectReference Include="..\..\Nest\Nest.csproj" />
     <PackageReference Include="NuDoq" Version="1.2.5" />
     <PackageReference Include="BuildAlyzer" Version="2.3.0" />
